@@ -1,0 +1,26 @@
+.menu{
+    margin-left: 20%;
+    width: 75%;
+}
+.el_menu{
+    display:inline-block;
+    border: 1px inset aquamarine;
+    width: 25%;
+    box-shadow: 4px 4px 5px rgba(250, 0, 0, .3);
+}
+.filter{
+    display: inline-block;
+    margin-left: 15%;
+    margin-top: 1%;
+    border: 1px inset #9FFFD5;
+    width: 10%;
+    padding-bottom: 35%;
+    box-shadow: 4px 4px 5px rgb(219, 210, 210);
+}
+.main_cont{
+    margin-left: 0.8%;
+    width: 55%;
+    padding-bottom: 35%;
+    display: inline-block;
+    border: 1px inset rgb(212, 201, 201);
+}
