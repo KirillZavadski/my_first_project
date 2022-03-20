@@ -1,11 +1,16 @@
-.card_{
+.card{
     width: 15%;
-    border: 2px solid black;
+    border: 0.5px solid rgb(201, 201, 201);
 }
+
+.card:hover {
+    background-color: blueviolet;
+}
+
 .card_img{
  
 }
-.description{
+.card_info{
     border-top: 1px solid black;
 }
 .image{
@@ -13,7 +18,7 @@
     padding: 10px;
     border-radius: 25px;
 }
-.description_h2{
+.title{
     margin-left: 15%;
     margin-top: auto;
 }
