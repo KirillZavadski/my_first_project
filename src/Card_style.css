@@ -5,15 +5,19 @@
     border-radius: 15px;
     transition: 0.4s;
     cursor: default;
+    box-shadow:1px 1px 15px rgb(95, 95, 95)
 }
 
 .card:hover {
-    box-shadow:4px 4px 50px rgb(95, 95, 95)
+    box-shadow:4px 4px 60px rgb(95, 95, 95)
 }
 .card:nth-child(1) {
     transition-delay: 0.1s;
   }
-  
+.description{
+    height: 170px;  /* Почему-то не работает высота в процентах*/
+    overflow-y: scroll;
+}
 .card_info{
     border-top: 1px solid black;
 }
