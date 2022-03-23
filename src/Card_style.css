@@ -15,8 +15,8 @@
     transition-delay: 0.1s;
   }
 .description{
-    height: 170px;  /* Почему-то не работает высота в процентах*/
-    overflow-y: scroll;
+    max-height: 170px;  /* Почему-то не работает высота в процентах*/
+    overflow-y: auto;
 }
 .card_info{
     border-top: 1px solid black;
