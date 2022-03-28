@@ -1,6 +1,7 @@
 .card{
-    margin-top: 15px;
-    margin-left: 15px;
+    display: inline-block;
+    margin-top: 2%;
+    margin-left: 6%;
     max-width: 25%;
     border: 0.5px solid rgb(201, 201, 201);
     border-radius: 15px;
