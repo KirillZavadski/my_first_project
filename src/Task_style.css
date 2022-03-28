@@ -8,15 +8,14 @@
 }
 .el_menu{
     display:inline-block;
-    border: 1px inset rgb(201, 201, 201);
+    border: 1px inset rgb(241, 241, 241);
     width: 25%;
 }
 .filter{
     margin-top: 0.5%;
-    float:left; 
-    display: inline-block;
+    float: left; 
     margin-left: 15%;
-    border: 1px inset rgb(201, 201, 201);
+    border: 1px inset rgb(241, 241, 241);
     width: 10%;
     padding-bottom: 35%;
 }
@@ -25,7 +24,7 @@
     margin-left: 0.8%;
     width: 55%;
     display: inline-block;
-    border: 1px inset rgb(201, 201, 201);
+    border: 1px inset rgb(241, 241, 241);
 }
 .shadows{
     box-shadow: 5px 5px 8px gray
