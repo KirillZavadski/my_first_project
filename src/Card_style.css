@@ -19,6 +19,7 @@
     transition-delay: 0.2s;
   }
 .card_info{
+    text-align: center;
     max-height: 120px;
     overflow-y: auto;
 }
