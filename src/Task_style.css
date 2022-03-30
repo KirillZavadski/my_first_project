@@ -1,11 +1,9 @@
 .main{
     margin: auto;
     width: 90%;
-    background-color: blue;
 }
 .menu{
     margin: auto;
-    background-color: aqua;
     width: 70%;
 }
 .el_menu_2{
