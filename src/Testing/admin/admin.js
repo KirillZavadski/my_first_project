@@ -1,11 +1,21 @@
-var green_script = document.querySelector(".section3");
-
-function ChangeColor() {
-    if (green_script.checked) {
+/*function ChangeColor() {
+    if (button.checked) {
         green_script.style.backgroundcolor = "black"
     } else {
         alert("Кнопка не нажата")
     }   
-}
+} */
 
- 
+
+function ChangeColor() {
+    let green_script;
+    green_script = document.querySelector(".section3");
+    let button;
+    button = document.getElementById("green");
+
+    if(button.checked) {
+       green_script.style.backgroundColor = "red";
+    } else {
+        alert("not checked")
+    }
+}
