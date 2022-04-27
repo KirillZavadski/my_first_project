@@ -1,12 +1,3 @@
-/*function ChangeColor() {
-    if (button.checked) {
-        green_script.style.backgroundcolor = "black"
-    } else {
-        alert("Кнопка не нажата")
-    }   
-} */
-
-
 function ChangeColor() {
     let green_script;
     green_script = document.querySelector(".section3");

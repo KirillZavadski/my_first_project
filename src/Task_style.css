@@ -7,15 +7,17 @@
     width: 70%;
 }
 .el_menu_2{
-    margin-left: 10px;
-    margin-right: 10px;
 }
 .el_menu{
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
     display: inline-block;
     border: 1px inset rgb(241, 241, 241);
-    width: 30.5%;
+    width: 23.2%;
 }
 .filter{
+    border-radius: 5px;
     text-align: center;
     margin-top: 0.5%;
     float: left; 
